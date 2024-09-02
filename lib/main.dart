@@ -145,7 +145,7 @@ class ContentArea extends StatelessWidget {
             child: Text('JOIN FLUTTER'),
             style: ElevatedButton.styleFrom(
               padding: EdgeInsets.symmetric(horizontal: 40, vertical: 20), backgroundColor: Colors.green,
-              textStyle: TextStyle(fontSize: 32),
+              textStyle: TextStyle(fontSize: 44),
             ),
           ),
         ],
